@@ -3,7 +3,7 @@ class PagesController < ApplicationController
   end
 
   # here is the about action 
-  def about 
-  	
-  end
+ def about
+ 	
+ end
 end
